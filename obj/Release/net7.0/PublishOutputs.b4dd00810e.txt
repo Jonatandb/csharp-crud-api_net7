@@ -1,0 +1,17 @@
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\csharp-crud-api.exe
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\appsettings.Development.json
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\appsettings.json
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\csharp-crud-api.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\csharp-crud-api.runtimeconfig.json
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\csharp-crud-api.pdb
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Microsoft.AspNetCore.OpenApi.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Microsoft.EntityFrameworkCore.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Microsoft.OpenApi.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Npgsql.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programacion\C#\DotNet\C#_CRUD_RestAPI_NET 7_ASPNET_EF_Postgres_Docker\csharp-crud-api\out\csharp-crud-api.deps.json
