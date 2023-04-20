@@ -20,5 +20,5 @@
 }
 ```
 
-### To test the users endpoints, open a browser and go to the following URLs:
+### To test the Users endpoints, open a browser and go to the following URL:
 - http://localhost:5000/swagger/index.html
