@@ -12,3 +12,13 @@
 
 ### To test the application, open a browser and go to the following URL:
 - http://localhost:5000/weatherforecast
+
+### Adding of Postgres connection string in appsetting.json:
+```
+"ConnectionStrings": {
+  "DefaultConnection": "Host=localhost;Port=5432;Database=postgres;Username=postgres;Password=root"
+}
+```
+
+### To test the users endpoints, open a browser and go to the following URLs:
+- http://localhost:5000/swagger/index.html
